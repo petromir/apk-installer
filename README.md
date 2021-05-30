@@ -27,7 +27,7 @@ This tool helps you install `apk` files faster by just selecting the desired fil
 
 ## Usage
 1. Connect Android devices to which the `apk` files will be installed.
-2. Select one or more `apk` files and press the `APK Installer` icon in Finder.
+2. Select one or more `apk` files and press the `APK Installer` icon in Finder. You might be asked to allow `osascript` to execute commands. This is used to show notifications
 3. Enjoy 🙂
 
 
