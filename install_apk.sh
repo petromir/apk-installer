@@ -1,9 +1,8 @@
 #!/bin/bash
 
-#title           :apk.sh
-#description     :Script for installng apk packages on all connected devices
-#author          :Petromir
-#date            :20 May 2021
+#description     :Script for uninstalling and installng apk packages on all connected Android devices
+#author          :Petromir Dzhunev
+#date            :30 May 2021
 
 export PATH=/usr/local/bin
 
