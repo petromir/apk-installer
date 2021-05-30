@@ -21,7 +21,7 @@ This tool helps you install `apk` files faster by just selecting the desired fil
 5. Install [aapt2](https://developer.android.com/studio/command-line/aapt2) add it to `PATH` variable
 
 ## Installing 
-1. Download `APK Installer.app` file and drag it to your Application folder
+1. Download latest version of [APK Installer](https://github.com/petromir/macos-apk-installer/releases), unzip and drag it to your Application folder
 2. Drag and drop it Finder toolbar
 <img width="259" alt="Add to toolbar mac OS" src="https://user-images.githubusercontent.com/1680908/120107324-52cfa980-c169-11eb-8351-a057de9b886f.png">
 
